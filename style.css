@@ -9,3 +9,9 @@ body {
     background-attachment: fixed;
     overflow: auto;
 }
+.title_header {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+}
