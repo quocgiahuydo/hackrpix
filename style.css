@@ -1,0 +1,11 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url("/images/white_abs_backg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(245,245,245);
+    background-attachment: fixed;
+    overflow: auto;
+}
